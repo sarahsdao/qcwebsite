@@ -1,0 +1,34 @@
+project:
+  title: "Posit Documentation"
+  type: posit-docs
+
+website:
+  title: "qcwebsite"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: "About"
+        href: about.qmd
+      - text: "---"
+      - Section: "Examples"
+        href: example-summary.qmd
+        contents:
+          - page.qmd
+          - page2.qmd
+      - text: "---"
+      - Section: "Examples 2"
+        href: example-summary2.qmd
+        contents:
+          - page3.qmd
+          - page4.qmd
+  page-navigation: true
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

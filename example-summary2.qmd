@@ -1,0 +1,5 @@
+---
+title: "Example Summary 2"
+---
+
+Some text goes here.

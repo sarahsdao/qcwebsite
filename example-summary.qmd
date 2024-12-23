@@ -1,0 +1,5 @@
+---
+title: "Example Summary"
+---
+
+This page is the top-level of the example sidebar.

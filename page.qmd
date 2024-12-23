@@ -1,0 +1,13 @@
+---
+title: "Example Page 1"
+---
+
+# Here is another example page. 
+
+It would have text here. 
+
+## Possibly with some headings.
+
+And more text.
+
+### This creates a table of contents.
