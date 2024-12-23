@@ -4,6 +4,13 @@ project:
 
 website:
   title: "qcwebsite"
+  navbar: 
+    search: true
+    left:
+        - text: "Example"
+          href: example-summary.qmd
+        - text: "Example 2"
+          href: example-summary2.qmd
   sidebar:
     style: "floating"
     search: true

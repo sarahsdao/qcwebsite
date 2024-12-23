@@ -1,10 +1,25 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "qcwebsite",
+    "objectID": "page3.html",
+    "href": "page3.html",
+    "title": "Example Page 3",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Some text goes here!",
+    "crumbs": [
+      "Example Summary 2",
+      "Example Page 3"
+    ]
+  },
+  {
+    "objectID": "example-summary.html",
+    "href": "example-summary.html",
+    "title": "Example Summary",
+    "section": "",
+    "text": "This page is the top-level of the example sidebar.",
+    "crumbs": [
+      "Example",
+      "Example Summary"
+    ]
   },
   {
     "objectID": "about.html",
@@ -14,6 +29,46 @@
     "text": "About this site",
     "crumbs": [
       "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "qcwebsite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "example-summary2.html",
+    "href": "example-summary2.html",
+    "title": "Example Summary 2",
+    "section": "",
+    "text": "Some text goes here.",
+    "crumbs": [
+      "Example",
+      "Example Summary 2"
+    ]
+  },
+  {
+    "objectID": "page4.html",
+    "href": "page4.html",
+    "title": "Example Page 4",
+    "section": "",
+    "text": "It would have text here.\n\n\nAnd more text.",
+    "crumbs": [
+      "Example Summary 2",
+      "Example Page 4"
+    ]
+  },
+  {
+    "objectID": "page4.html#possibly-with-more-headings.",
+    "href": "page4.html#possibly-with-more-headings.",
+    "title": "Example Page 4",
+    "section": "",
+    "text": "And more text.",
+    "crumbs": [
+      "Example Summary 2",
+      "Example Page 4"
     ]
   },
   {
@@ -58,56 +113,6 @@
     "crumbs": [
       "Example Summary",
       "Example Page 2"
-    ]
-  },
-  {
-    "objectID": "example-summary.html",
-    "href": "example-summary.html",
-    "title": "Example Summary",
-    "section": "",
-    "text": "This page is the top-level of the example sidebar.",
-    "crumbs": [
-      "Example Summary"
-    ]
-  },
-  {
-    "objectID": "page3.html",
-    "href": "page3.html",
-    "title": "Example Page 3",
-    "section": "",
-    "text": "Some text goes here!",
-    "crumbs": [
-      "Example Summary 2",
-      "Example Page 3"
-    ]
-  },
-  {
-    "objectID": "example-summary2.html",
-    "href": "example-summary2.html",
-    "title": "Example Summary 2",
-    "section": "",
-    "text": "Some text goes here."
-  },
-  {
-    "objectID": "page4.html",
-    "href": "page4.html",
-    "title": "Example Page 4",
-    "section": "",
-    "text": "It would have text here.\n\n\nAnd more text.",
-    "crumbs": [
-      "Example Summary 2",
-      "Example Page 4"
-    ]
-  },
-  {
-    "objectID": "page4.html#possibly-with-more-headings.",
-    "href": "page4.html#possibly-with-more-headings.",
-    "title": "Example Page 4",
-    "section": "",
-    "text": "And more text.",
-    "crumbs": [
-      "Example Summary 2",
-      "Example Page 4"
     ]
   }
 ]
