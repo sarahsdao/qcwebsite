@@ -30,12 +30,8 @@ website:
           - page3.qmd
           - page4.qmd
   page-navigation: true
-      
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
+  back-to-top-navigation: true
+  bread-crumbs: true
+    
 
 
